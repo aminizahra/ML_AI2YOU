@@ -14,4 +14,18 @@
   <li>Seaborn</li>
  </ol>
 <h2 style="font-size:40px">Part2: Supervised Learning Algorithms</h2>
+<ol>
+  <li>Linear Regression</li>
+  <li>Gradient Descent(GD)</li>
+  <li>Polynomial Regression</li>
+  <li>Logistic Regression</li>
+  <li>Data Cleaning</li>
+  <li>Overfit&Underfit,Bias&Variance</li>
+  <li>Regularization</li>
+  <li>K-Nearest Neighbors(KNN)</li>
+  <li>Naive Bayes Classifier</li>
+  <li>Support Vector Machines(SVM)</li>
+  <li>Decision Trees(DT)</li>
+  <li>Random Forest(RF)</li>
+ </ol>
 <h2 style="font-size:40px">Part3: Unsupervised Learning Algorithms</h2>

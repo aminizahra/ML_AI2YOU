@@ -29,3 +29,9 @@
   <li>Random Forest(RF)</li>
  </ol>
 <h2 style="font-size:40px">Part3: Unsupervised Learning Algorithms</h2>
+<ol>
+  <li>K-Means clustering</li>
+  <li>Principal Component Analysis(PCA)</li>
+  <li>DBSCAN</li>
+  <li>Hierarchical Clustering</li>
+ </ol>

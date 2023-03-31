@@ -11,7 +11,7 @@
   <li>NumPy</li>
   <li>Pandas</li>
       Resources:
-      <br><a href="https://github.com/aminizahra/ML_AI2YOU/blob/main/Books/Python%20for%20Data%20Analysis%20Data%20Wrangling%20with%20Pandas%2C%20NumPy%2C%20and%20IPython%20(Wes%20McKinney).pdf">1. Book:Python for Data Analysis</a>
+      <br><a href="https://github.com/aminizahra/ML_AI2YOU/blob/main/Books/Python%20for%20Data%20Analysis%20Data%20Wrangling%20with%20Pandas%2C%20NumPy%2C%20and%20IPython%20(Wes%20McKinney).pdf">1. Book: Python for Data Analysis</a>
       <br><a href="https://www.coursera.org/learn/python-data-analysis/home/welcome">2. Online-Course: Introduction to Data Science in Python</a>
   <li>Matplotlib</li>
   <li>Seaborn</li>

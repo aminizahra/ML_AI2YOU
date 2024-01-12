@@ -18,8 +18,8 @@
  </ol>
 <h2 style="font-size:40px">Part2: Supervised Learning Algorithms</h2>
 <ol>
-  <li>Linear Regression</li>
-  <li>Gradient Descent(GD)</li>
+  <a href=https://github.com/aminizahra/ML_AI2YOU/tree/main/lecture/S1_LinearRegression><li>Linear Regression</li></a>
+  <a href=https://github.com/aminizahra/ML_AI2YOU/tree/main/lecture/S2_LinearRegression%26GradientDescent><li>Gradient Descent(GD)</li></a>
   <li>Polynomial Regression</li>
   <li>Logistic Regression</li>
   <li>Data Cleaning</li>

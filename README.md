@@ -20,7 +20,7 @@
 <ol>
   <a href=https://github.com/aminizahra/ML_AI2YOU/tree/main/lecture/S1_LinearRegression><li>Linear Regression</li></a>
   <a href=https://github.com/aminizahra/ML_AI2YOU/tree/main/lecture/S2_LinearRegression%26GradientDescent><li>Gradient Descent(GD)</li></a>
-  <li>Polynomial Regression</li>
+  <a href=https://github.com/aminizahra/ML_AI2YOU/tree/main/lecture/S3_PolynomiaRegression><li>Polynomial Regression</li></a>
   <li>Logistic Regression</li>
   <li>Data Cleaning</li>
   <li>Overfit&Underfit,Bias&Variance</li>

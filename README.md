@@ -8,8 +8,8 @@
 
 <h2 style="font-size:40px">Part1: Introduction</h2>
 <ol>
-  <li>NumPy</li>
-  <li>Pandas</li>
+  <a href=https://github.com/aminizahra/ML_AI2YOU/tree/main/lecture/ML%20Libraries><li>NumPy</li></a>
+  <a href=https://github.com/aminizahra/ML_AI2YOU/tree/main/lecture/ML%20Libraries><li>Pandas</li></a>
       Resources:
       <br><a href="https://github.com/aminizahra/ML_AI2YOU/blob/main/Books/Python%20for%20Data%20Analysis%20Data%20Wrangling%20with%20Pandas%2C%20NumPy%2C%20and%20IPython%20(Wes%20McKinney).pdf">1. Book: Python for Data Analysis</a>
       <br><a href="https://www.coursera.org/learn/python-data-analysis/home/welcome">2. Online-Course: Introduction to Data Science in Python</a>
@@ -21,7 +21,7 @@
   <a href=https://github.com/aminizahra/ML_AI2YOU/tree/main/lecture/S1_LinearRegression><li>Linear Regression</li></a>
   <a href=https://github.com/aminizahra/ML_AI2YOU/tree/main/lecture/S2_LinearRegression%26GradientDescent><li>Gradient Descent(GD)</li></a>
   <a href=https://github.com/aminizahra/ML_AI2YOU/tree/main/lecture/S3_PolynomiaRegression><li>Polynomial Regression</li></a>
-  <li>Logistic Regression</li>
+  <a href=https://github.com/aminizahra/ML_AI2YOU/tree/main/lecture/S4_LogisticRegression><li>Logistic Regression</li></a>
   <li>Data Cleaning</li>
   <li>Overfit&Underfit,Bias&Variance</li>
   <li>Regularization</li>

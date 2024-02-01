@@ -22,7 +22,7 @@
   <a href=https://github.com/aminizahra/ML_AI2YOU/tree/main/lecture/S2_LinearRegression%26GradientDescent><li>Gradient Descent(GD)</li></a>
   <a href=https://github.com/aminizahra/ML_AI2YOU/tree/main/lecture/S3_PolynomiaRegression><li>Polynomial Regression</li></a>
   <a href=https://github.com/aminizahra/ML_AI2YOU/tree/main/lecture/S4_LogisticRegression><li>Logistic Regression</li></a>
-  <li>Data Cleaning</li>
+  <a href=https://github.com/aminizahra/ML_AI2YOU/tree/main/lecture/S5_DataCleaning><li>Data Cleaning</li></a>
   <li>Overfit&Underfit,Bias&Variance</li>
   <li>Regularization</li>
   <li>K-Nearest Neighbors(KNN)</li>

@@ -24,8 +24,8 @@
   <a href=https://github.com/aminizahra/ML_AI2YOU/tree/main/lecture/S4_LogisticRegression><li>Logistic Regression</li></a>
   <a href=https://github.com/aminizahra/ML_AI2YOU/tree/main/lecture/S5_DataCleaning><li>Data Cleaning</li></a>
   <a href=https://github.com/aminizahra/ML_AI2YOU/tree/main/lecture/S6_Regularization><li>Regularization | Overfit&Underfit,Bias&Variance</li></a>
-  <li>K-Nearest Neighbors(KNN)</li>
-  <li>Naive Bayes Classifier</li>
+  <a href=https://github.com/aminizahra/ML_AI2YOU/tree/main/lecture/S7_K-NearestNeighbors(KNN)><li>K-Nearest Neighbors(KNN)</li></a>
+  <a href=https://github.com/aminizahra/ML_AI2YOU/tree/main/lecture/S8_NaiveBayesClassifier><li>Naive Bayes Classifier</li></a>
   <li>Support Vector Machines(SVM)</li>
   <li>Decision Trees(DT)</li>
   <li>Random Forest(RF)</li>

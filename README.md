@@ -27,7 +27,7 @@
   <a href=https://github.com/aminizahra/ML_AI2YOU/tree/main/lecture/S7_K-NearestNeighbors(KNN)><li>K-Nearest Neighbors(KNN)</li></a>
   <a href=https://github.com/aminizahra/ML_AI2YOU/tree/main/lecture/S8_NaiveBayesClassifier><li>Naive Bayes Classifier</li></a>
   <a href=https://github.com/aminizahra/ML_AI2YOU/tree/main/lecture/S9_DecisionTree><li>Decision Trees(DT)</li></a>
-  <li>Support Vector Machines(SVM)</li>
+  <a href=https://github.com/aminizahra/ML_AI2YOU/tree/main/lecture/S10_SupportVectorMachines(SVM)><li>Support Vector Machines(SVM)</li></a>
   <li>Random Forest(RF)</li>
  </ol>
 <h2 style="font-size:40px">Part3: Unsupervised Learning Algorithms</h2>

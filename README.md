@@ -32,7 +32,7 @@
  </ol>
 <h2 style="font-size:40px">Part3: Unsupervised Learning Algorithms</h2>
 <ol>
-  <li>K-Means clustering</li>
+  <a href=https://github.com/aminizahra/ML_AI2YOU/tree/main/lecture/S11_K-meansClustering><li>K-Means clustering</li></a>
   <li>Principal Component Analysis(PCA)</li>
   <li>DBSCAN</li>
   <li>Hierarchical Clustering</li>
